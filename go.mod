@@ -11,14 +11,14 @@ require (
 	github.com/quic-go/quic-go v0.40.1-0.20240102075208-1083d1fb8f98
 	github.com/rs/zerolog v1.31.0
 	go.uber.org/zap v1.24.0
-	golang.org/x/crypto v0.17.0
+	golang.org/x/crypto v0.19.0
 	golang.org/x/exp v0.0.0-20221205204356-47842c84f3db
 	golang.org/x/oauth2 v0.13.0
-	golang.org/x/term v0.15.0
+	golang.org/x/term v0.17.0
 )
 
 require (
-	github.com/go-jose/go-jose/v3 v3.0.1 // indirect
+	github.com/go-jose/go-jose/v3 v3.0.3 // indirect
 	github.com/go-logr/logr v1.2.4 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
@@ -38,7 +38,7 @@ require (
 	go.uber.org/multierr v1.11.0 // indirect
 	golang.org/x/mod v0.12.0 // indirect
 	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/sys v0.17.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.12.0 // indirect
 	google.golang.org/appengine v1.6.8 // indirect
